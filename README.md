@@ -1,8 +1,8 @@
 # User-and-Market-Insights
 
-# Dashboard Visualization
+# User and Market Insights Dashboard
 
-Here is the preview of the dashboard:
+Here is a preview of the User and Market Insights Dashboard:
 
-![Dashboard Preview](User and Market Insights Dashboard.png)
+![User and Market Insights Dashboard](User%20and%20Market%20Insights%20Dashboard.png)
 
