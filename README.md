@@ -1,7 +1,8 @@
 # User-and-Market-Insights
 
-# PDF File
+# Dashboard Visualization
 
-You can view or download the PDF file here:
+Here is the preview of the dashboard:
 
-[View PDF File](User and Market Insights Dashboard.pdf)
+![Dashboard Preview](User and Market Insights Dashboard.png)
+
